@@ -1,8 +1,8 @@
 class Jotdo < Formula
   desc "Reminders from your CalDAV server (Nextcloud, Apple Reminders), in a terminal"
   homepage "https://github.com/mmoyles87/jotdo"
-  url "https://github.com/mmoyles87/jotdo/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f695bb71f57e5e654b683d01bd3699f394a408fee8b22c81842ba85eb4217826"
+  url "https://github.com/mmoyles87/jotdo/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "1bbd95c3c4bfa9a604cb7c543fb41a4c3ea6a69892109b3b65ab178094fdd702"
   license "GPL-3.0-or-later"
   head "https://github.com/mmoyles87/jotdo.git", branch: "main"
 

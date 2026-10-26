@@ -1,8 +1,8 @@
 class Jotmail < Formula
   desc "Notes from your IMAP mailbox (Apple Notes, Fastmail), in a terminal"
   homepage "https://github.com/mmoyles87/jotmail"
-  url "https://github.com/mmoyles87/jotmail/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "1f71ab7514b012a3ec62df8b5c6b1875efb698f6f4c9b847983a1722e5aecade"
+  url "https://github.com/mmoyles87/jotmail/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "8543f87563ffb6ea19d30956baecfc4736d14f5d7a9a5d737270356a0a2c3609"
   license "GPL-3.0-or-later"
   head "https://github.com/mmoyles87/jotmail.git", branch: "main"
 
